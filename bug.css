@@ -1,0 +1,6 @@
+The following CSS code snippet demonstrates an issue where the `background-image` property does not apply correctly due to an incorrect path or missing image file. 
+```css
+.element {
+  background-image: url(./images/background.jpg);
+}
+```
